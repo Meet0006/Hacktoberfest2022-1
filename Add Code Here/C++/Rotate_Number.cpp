@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Rotate number #Hard
+//Rotate number #Hard Problem
 int main() {
     int a[1000], n, b[1], s;
     cout << "Enter total Length: ";
